@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_head">30sp</dimen>
+    <dimen name="cont_number">40sp</dimen>
+    <dimen name="btn_margin">40dp</dimen>
+</resources>
